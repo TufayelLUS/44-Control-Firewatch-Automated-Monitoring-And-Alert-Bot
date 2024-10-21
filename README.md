@@ -1,4 +1,4 @@
-# 44-Control Firewatch Automated Monitoring And Alert Bot
+# 44-Control Firewatch Monitoring And Telegram Alert Bot
 This is a Python-powered automated fire alert monitoring bot that tracks the 44-control.net website for fire alerts and sends telegram alerts upon new incidents identified
 
 # How does it work?
